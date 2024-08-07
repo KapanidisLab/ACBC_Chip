@@ -6,8 +6,7 @@ In here you will be able to find information as to the hardware used and softwar
 
 The hardware you will need are the following:
 
-| Name           | Age | Occupation    |
-| -------------- | --- | ------------- |
-| John Doe       | 30  | Software Engineer |
-| Jane Smith     | 25  | Data Scientist |
-| Emily Johnson  | 35  | Product Manager |
+| Component           | Number | Unit Cost (GBP)    | Cost
+| -------------- | --- | ------------- |  ------------- |
+| Syringe pumps     | 8  | 12.52 | 100.16|
+| Electronics    | 2  | 34.19 | 68.38 |
