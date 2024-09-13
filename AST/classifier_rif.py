@@ -85,7 +85,7 @@ def get_images(image_size = (64,64)):
 
         
 
-        #lets_reshuffle
+        #re-arrange channels to match trained models channels
         rgb_image = np.zeros([3,image[0].shape[0],image[0].shape[1]])
         rgb_image[0] = image[1] # r is now dapi
         rgb_image[1] = image[0] # g is nile red
@@ -137,12 +137,9 @@ def preprocess_image(img):
 
 
 global image_paths
+file_path =' '
 #image_paths = glob(r"E:\dapi classifier paper data\Zagajewski_Data\Zagajewski_Data\Data\MG1655\isolated_cells\sensitive\*.tif")[-100:]
-
-image_paths = glob(r"E:\acbc_revision_experiments\chitosan_rif\pos*")
-#image_paths = glob(r"E:\acbc_revision_experiments\chitosan_untreated\pos*")
-
-
+image_paths = glob(file_path + r"\pos*")
 
 image_list = []
 phenotype_list = []
