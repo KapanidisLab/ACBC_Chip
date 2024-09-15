@@ -9,10 +9,10 @@ For fluidics components used as well as instructions and software control of pum
 
 
 ## Fludics
-For fluidics components used as well as instructions and software control of pumps and valves have a look at the [Fluidics](fluidics/)
- sub directory.
+For fluidics components used as well as instructions and software control of pumps and valves have a look at the [Fluidics](fluidics/) sub directory.
+
  
-div align="center">
+<div align="center">
 <img src="./images/S6.png" alt="Fluidics setup" width="150" />
 </div>
 
