@@ -14,7 +14,6 @@ In here you will be able to find information as to the hardware used and softwar
 
 
 <div align="center">
-  
-![Cipro treated e.coli stained with Nile Red (membrane) and DAPI (chromosome)](./images/cipro_gif.gif)
+<img src="./images/cipro_gif.gif" alt="Cipro treated e.coli stained with Nile Red (membrane) and DAPI (chromosome)" width="500" />
 
 </div>
