@@ -24,6 +24,7 @@ For the fluidic setup the following components were used:
 ![The ACBC fluidic setup](images/S6.png)
 
 Operation:
+
 -Briefly, a sample syringe pump is used to flow the bacterial sample through the device under capturing conditions (in the study a Harvard11 syringe pump was used for this task but any of the custom-made syringe pumps can be used for this task as well).
 
 -Once done with trapping bacteria, a 3way-valve is used to engage the chip with a selection valve containing the FISH reagents. 
