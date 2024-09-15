@@ -29,5 +29,5 @@ For multiplexed 16S rRNA FISH the datasets can be found at the following doi: [1
 
 For AST work have a look at [AST](AST/)
 <div align="center">
-<img src="./images/cipro_gif.gif" alt="Cipro treated e.coli stained with Nile Red (membrane) and DAPI (chromosome)" width="240" />
+<img src="./images/cipro_gif.gif" alt="Cipro treated e.coli stained with Nile Red (membrane) and DAPI (chromosome)" width="350" />
 </div>
