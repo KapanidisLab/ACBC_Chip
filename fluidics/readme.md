@@ -28,7 +28,3 @@ For the fluidic setup the following components were used:
 -Once done with trapping bacteria, a 3way-valve is used to engage the chip with a selection valve containing the FISH reagents. 
 
 -Each reagent is finally delivered through one of the custom syringe pumps.
-
-And the real-life setup:
-![Experimental setup](images/instrument_setup3.jpg)
-
