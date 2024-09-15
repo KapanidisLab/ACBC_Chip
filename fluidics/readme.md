@@ -1,6 +1,5 @@
 For the fluidic setup the following components were used:
 
-You will need the following components which you can find in the table below:
 | **Item**                                  | **Unit Cost (GBP)** | **Number** | **Cost**   |
 |-------------------------------------------|---------------------|------------|------------|
 | **Syringe pump components**               |                     |            |            |
