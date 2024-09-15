@@ -11,7 +11,15 @@ For fluidics components used as well as instructions and software control of pum
 ## Fludics
 For fluidics components used as well as instructions and software control of pumps and valves have a look at the [Fluidics](fluidics/)
  sub directory.
+ 
+div align="center">
+<img src="./images/S6.png" alt="Fluidics setup" width="150" />
+</div>
 
+
+## AST
+
+For AST work have a look at AST](AST/)
 <div align="center">
 <img src="./images/cipro_gif.gif" alt="Cipro treated e.coli stained with Nile Red (membrane) and DAPI (chromosome)" width="150" />
 </div>
