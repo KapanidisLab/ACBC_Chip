@@ -20,7 +20,7 @@ For fluidics components used as well as instructions and software control of pum
 
 For multiplexed 16S rRNA FISH the datasets can be found at the following doi: [10.5281/zenodo.13287507](https://doi.org/10.5281/zenodo.13287507)
 <div align="center">
-<img src="./images/multiplexed_FISH.tif" alt="Fluidics setup" width="350" />
+<img src="./images/multiplexed_FISH.png" alt="Fluidics setup" width="350" />
 </div>
 
 
