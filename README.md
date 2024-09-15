@@ -13,14 +13,14 @@ For fluidics components used as well as instructions and software control of pum
 
  
 <div align="center">
-<img src="./images/S6.png" alt="Fluidics setup" width="240" />
+<img src="./images/S6.png" alt="Fluidics setup" width="350" />
 </div>
 
 ## Multiplexed 16S rRNA FISH
 
 For multiplexed 16S rRNA FISH the datasets can be found at the following doi: [10.5281/zenodo.13287507](https://doi.org/10.5281/zenodo.13287507)
 <div align="center">
-<img src="./images/multiplexed_FISH.png" alt="Fluidics setup" width="350" />
+<img src="./images/multiplexed_FISH.png" alt="Fluidics setup" width="500" />
 </div>
 
 
