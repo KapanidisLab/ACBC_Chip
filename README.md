@@ -4,7 +4,7 @@ https://doi.org/10.1039/D4LC00325J
 For fluidics components used as well as instructions and software control of pumps and valves have a look at the fluidics sub directory.
 <div align="center">
 
-<img src="./images/ecoli_gif.gif" alt="E. coli trapping" width="150"   />
+<img src="./images/ecoli_gif.gif" alt="E. coli trapping" width="240"   />
 </div>
 
 
@@ -13,13 +13,13 @@ For fluidics components used as well as instructions and software control of pum
 
  
 <div align="center">
-<img src="./images/S6.png" alt="Fluidics setup" width="150" />
+<img src="./images/S6.png" alt="Fluidics setup" width="240" />
 </div>
 
 
 ## AST
 
-For AST work have a look at AST](AST/)
+For AST work have a look at [AST](AST/)
 <div align="center">
-<img src="./images/cipro_gif.gif" alt="Cipro treated e.coli stained with Nile Red (membrane) and DAPI (chromosome)" width="150" />
+<img src="./images/cipro_gif.gif" alt="Cipro treated e.coli stained with Nile Red (membrane) and DAPI (chromosome)" width="240" />
 </div>
