@@ -9,7 +9,7 @@ In here you will be able to find information as to the hardware used and softwar
 
 
 
-<img src="./images/ecoli_gif_repeat.gif" alt="E. coli trapping" width="300" />
+<img src="./images/ecoli_gif.gif" alt="E. coli trapping" width="300" />
 
 
 
