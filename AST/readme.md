@@ -2,3 +2,9 @@
 
 -The trained models as well as training datasets can be found in the following open repository: 
 https://ora.ox.ac.uk/objects/uuid:12153432-e8b3-4398-a395-abfb980bd84e
+
+<div align="center">
+  
+![Cipro treated e.coli stained with Nile Red (membrane) and DAPI (chromosome)](./images/cipro_gif.gif)
+
+</div>
