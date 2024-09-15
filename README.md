@@ -7,14 +7,14 @@ For fluidics components used as well as instructions and software control of pum
 <img src="./images/ecoli_gif.gif" alt="E. coli trapping" width="150" />
 </div>
 
-<video
-  muted
-  loop
-  preload="auto"
-  autoPlay
-  playsInline
-  src={./images/ecoli_gif.gif}
-></video>
+         <video
+            muted
+            loop
+            preload="auto"
+            autoPlay
+            playsInline
+            src={"./images/ecoli_gif.gif"}
+         ></video>
 
 
 ## Fludics
