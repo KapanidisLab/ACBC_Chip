@@ -8,7 +8,7 @@ For fluidics components used as well as instructions and software control of pum
 </div>
 
 
-## Fludics
+## Fluidics
 For fluidics components used as well as instructions and software control of pumps and valves have a look at the [Fluidics](fluidics/) sub directory.
 
  
