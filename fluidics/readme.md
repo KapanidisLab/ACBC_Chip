@@ -21,7 +21,7 @@ For the fluidic setup the following components were used:
 |                                           | **Total**           |            | **3738.66** |
 
 -This is how the system was setup: 
-![The ACBC fluidic setup](images/S6.png)
+![The ACBC fluidic setup](main/images/S6.png)
 
 -Briefly, a sample syringe pump is used to flow the bacterial sample through the device under capturing conditions (in the study a Harvard11 syringe pump was used for this task but any of the custom-made syringe pumps can be used for this task as well).
 
