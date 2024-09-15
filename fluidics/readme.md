@@ -30,4 +30,4 @@ Operation:
 
 -Each reagent is finally delivered through one of the custom syringe pumps.
 
--Each task can be conducted through the GUI in acbc_multi.py
+-The above tasks can be conducted through the GUI in acbc_multi.py.
