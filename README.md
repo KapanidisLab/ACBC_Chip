@@ -18,7 +18,7 @@ For fluidics components used as well as instructions and software control of pum
 
 ## Multiplexed 16S rRNA FISH
 
-For multiplexed 16S rRNA FISH look at the [Identification](identification/) sub directory the datasets can be found at the following doi: [10.5281/zenodo.13287507](https://doi.org/10.5281/zenodo.13287507)
+For multiplexed 16S rRNA FISH look at the [Identification](Identification/) sub directory. 
 <div align="center">
 <img src="./images/multiplexed_FISH.png" alt="Fluidics setup" width="500" />
 </div>
