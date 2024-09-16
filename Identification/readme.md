@@ -3,5 +3,5 @@
 
 -The multiplexed_FISH_decoding.py script converts the probe intensity data to a binary signal and assigns them to a species.
 
--The dataset for the multiplexed 16S rRNA FISH is openly available at Zenodo in the following doi: 10.5281/zenodo.13287507
+-The image dataset is openly available at Zenodo in the following doi: 10.5281/zenodo.13287507
 
