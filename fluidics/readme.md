@@ -1,6 +1,6 @@
 For the fluidic setup the following components were used:
 
-| **Item**                                  | **Unit Cost (GBP)** | **Number** | **Cost**   |
+| **Item**                                  | **Unit Cost (GBP)** | **Number** | **Cost (£)**   |
 |-------------------------------------------|---------------------|------------|------------|
 | **Syringe pump components**               |                     |            |            |
 | NEMA17                                    | 10.12               | 8          | 80.96      |
