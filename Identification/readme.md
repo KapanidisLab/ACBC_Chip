@@ -5,3 +5,4 @@
 
 -The image dataset is openly available at Zenodo in the following doi: 10.5281/zenodo.13287507
 
+-For image segmentation and bacterial segmentation statistics, see https://github.com/piedrro/napari-bacseg.
